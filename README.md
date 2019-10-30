@@ -1,18 +1,17 @@
 # Notification Pattern
 
 Exemplo de Notification Pattern utilizando Flunt
-  
-  
-Para mais informações sobre o Flunt acesse o repositório oficial do projeto.
-
-https://github.com/andrebaltieri/flunt
-  
+   
   
 Para instalar o Flunt utilize o seguinte comando via Nuget Package Manager
 
 ```
 Install-Package Flunt
 ```
+
+  
+Para mais informações sobre o Flunt acesse o repositório oficial do projeto.
+https://github.com/andrebaltieri/flunt
 
 Após instalar o Package faça sua entidade herdar da classe Notifiable
 
