@@ -123,3 +123,5 @@ Caso o funcionário seja válido o resultado será
 
 Caso o funcionário seja inválido ele conterá as notificações
 
+![image](https://user-images.githubusercontent.com/30643035/67825145-c47fd700-fa9e-11e9-9829-6bc66f61c1da.png)
+
