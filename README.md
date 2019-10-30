@@ -125,3 +125,6 @@ Caso o funcionário seja inválido ele conterá as notificações
 
 ![image](https://user-images.githubusercontent.com/30643035/67825145-c47fd700-fa9e-11e9-9829-6bc66f61c1da.png)
 
+Para mais informações sobre o Flunt acesse o repositório oficial do projeto.
+
+https://github.com/andrebaltieri/flunt
