@@ -114,3 +114,12 @@ namespace NotificationsPattern
 }
 
 ```
+
+## Resultado
+
+Caso o funcionário seja válido o resultado será
+
+![image](https://user-images.githubusercontent.com/30643035/67825057-808cd200-fa9e-11e9-9da7-874477ec5454.png)
+
+Caso o funcionário seja inválido ele conterá as notificações
+
